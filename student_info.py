@@ -1,3 +1,4 @@
+
 # Student's personal info
 
 name = "Daniel Dzioba"
@@ -11,6 +12,7 @@ hobby = "Videogames"
 # This program displays a simple, formatted profile card with basic student information & details
 # Contents of the student information card includes: name, major, graduation year, email, and their main hobby
 
+
 print("|========================================|")
 print("       STUDENT INFORMATION CARD")
 print("|========================================|")
@@ -21,3 +23,4 @@ print(f"📧 Email: {email}")
 print(f"🏠 Hometown: {hometown}")
 print(f"✨ Hobby: {hobby}")
 print("|========================================|")
+
