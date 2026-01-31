@@ -1,16 +1,18 @@
 # Student Information Card
 
-[Add your 2-3 sentence description here]
+A simple program that displays a student information card.
 
 ## Features
 
 - Display student name (original)
 - Display major and graduation year (original)
-- [Add your new features here as you complete them]
+- Display student email
+- Display student hometown
+- Display student hobby
 
 ## Technologies Used
 
-- [Coding Language python or java, which did you use]
+- Python
 - Git for version control
 - GitHub for repository hosting
 
@@ -21,15 +23,37 @@
 
 ### Steps to Run
 
-1. [Add your installation steps here]
+1. Clone this repository:
+  ```
+  git clone https://github.com/dziobacsu/CPSC4205_GitWorkflow/tree/feature/daniel-dzioba-enhancements.git
+  ```
+
+2. Navigate to the project directory:
+  ```
+  cd CPSC4205_GitWorkflow
+  ```
+
+3. Run the program:
+  ```
+  python student_info.py
+  ```
 
 ## Usage
 
-[Explain how to use your program]
+Run the program to see the formatted student information card!
 
 ### Sample Output:
 ```
-[Add example output here]
+|========================================|
+       STUDENT INFORMATION CARD
+|========================================|
+✏️ Name: Daniel Dzioba
+📜 Major: Information Technology
+🎓 Graduation Year: 2026
+📧 Email: dzioba_daniel@students.columbusstate.edu
+🏠 Hometown: Waverly Hall, GA
+✨ Hobby: Videogames
+|========================================|
 ```
 
 ## Development Process
