@@ -19,7 +19,9 @@ A simple program that displays a student information card.
 ## Installation and Setup
 
 ### Prerequisites
-[List what's needed to run your program]
+- Python IDE
+- Git
+- Github
 
 ### Steps to Run
 
