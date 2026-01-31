@@ -57,7 +57,3 @@ Run the program to see the formatted student information card!
 ✨ Hobby: Videogames
 |========================================|
 ```
-
-## Development Process
-
-[Write 3-5 sentences about your experience implementing this project]
