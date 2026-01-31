@@ -27,7 +27,7 @@ A simple program that displays a student information card.
 
 1. Clone this repository:
   ```
-  git clone https://github.com/dziobacsu/CPSC4205_GitWorkflow/tree/feature/daniel-dzioba-enhancements.git
+  git clone https://github.com/dziobacsu/CPSC4205_GitWorkflow/tree/main.git
   ```
 
 2. Navigate to the project directory:
